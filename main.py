@@ -57,7 +57,7 @@ def main():
         clean()
         print_red("INSTALLING DEPENDENCIES")
         resetColour()
-        os.system("pip install requirements.txt")
+        os.system("pip install -r ./requirements.txt")
 
         main()
     elif user_input == "4":
