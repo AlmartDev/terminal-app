@@ -9,4 +9,4 @@ $ cd terminal-app
 $ python3 main.py
 ```
 # Example
-[image](./img/screenshot1.png)
+[image](https://github.com/AlmartDev/terminal-app/blob/main/img/screenshot1.png)
